@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using WWorldMidTest.Data;
+using WWorldMidTest.Repository;
+using WWorldMidTest.Repository.IRepository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<CarDealerContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MyDB")));
+builder.Services.AddScoped<ICustomerRepository,CustomerRepository>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

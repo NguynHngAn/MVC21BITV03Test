@@ -134,3 +134,4 @@ C:\Users\ACER\source\repos\WWorldMidTest\WWorldMidTest\obj\Debug\net8.0\refint\W
 C:\Users\ACER\source\repos\WWorldMidTest\WWorldMidTest\obj\Debug\net8.0\WWorldMidTest.pdb
 C:\Users\ACER\source\repos\WWorldMidTest\WWorldMidTest\obj\Debug\net8.0\WWorldMidTest.genruntimeconfig.cache
 C:\Users\ACER\source\repos\WWorldMidTest\WWorldMidTest\obj\Debug\net8.0\ref\WWorldMidTest.dll
+C:\Users\ACER\source\repos\WWorldMidTest\WWorldMidTest\obj\Debug\net8.0\WWorldMidTest.sourcelink.json
