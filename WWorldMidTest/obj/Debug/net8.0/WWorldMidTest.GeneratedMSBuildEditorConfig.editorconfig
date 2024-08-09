@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WWorldMidTest
 build_property.RootNamespace = WWorldMidTest
@@ -36,6 +44,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ACER/source/repos/WWorldMidTest/WWorldMidTest/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/WWorldMidTest/WWorldMidTest/Views/Part/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/WWorldMidTest/WWorldMidTest/Views/Part/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/WWorldMidTest/WWorldMidTest/Views/Part/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/WWorldMidTest/WWorldMidTest/Views/Part/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/WWorldMidTest/WWorldMidTest/Views/Part/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ACER/source/repos/WWorldMidTest/WWorldMidTest/Views/Shared/Error.cshtml]

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using System;
 using System.Collections.Generic;
 
 namespace WWorldMidTest.Data;
@@ -12,6 +13,7 @@ public partial class Part
     public double? Price { get; set; }
 
     public int Quantity { get; set; }
+
 
     public int SupplierId { get; set; }
 
