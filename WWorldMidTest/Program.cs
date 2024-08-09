@@ -10,6 +10,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<CarDealerContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MyDB")));
 builder.Services.AddScoped<ICustomerRepository,CustomerRepository>();
+builder.Services.AddScoped<ICarRepository,CarRepository>();
 
 var app = builder.Build();
 

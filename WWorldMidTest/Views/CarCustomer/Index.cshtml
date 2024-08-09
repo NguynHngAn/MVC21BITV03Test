@@ -1,0 +1,43 @@
+﻿@model IEnumerable<SalesViewModel>
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Danh Sach Khach Hang</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <div class="row pb-3">
+            <div class="col-6">
+            </div>
+        </div>
+
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Mã KH</th>
+                    <th>Tên Khách hàng</th>
+                    <th>Ngày sinh</th>
+                    <th>Nhãn hiệu</th>
+                    <th>Model</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model.OrderBy(u => u.CustomerId))
+                {
+                    <tr>
+                        <td>@obj.CustomerId</td>
+                        <td>@obj.CustomerName</td>
+                        <td>@obj.CustomerBirthDate.ToString("dd/MM/yyyy")</td>
+                        <td>@obj.CarMake</td>
+                        <td>@obj.CarModel</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
