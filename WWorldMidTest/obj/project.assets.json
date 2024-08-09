@@ -4106,19 +4106,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+    "C:\\Users\\LY DAT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\WWorldMidTest\\WWorldMidTest\\WWorldMidTest.csproj",
+      "projectUniqueName": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\WWorldMidTest.csproj",
       "projectName": "WWorldMidTest",
-      "projectPath": "C:\\Users\\ACER\\source\\repos\\WWorldMidTest\\WWorldMidTest\\WWorldMidTest.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\source\\repos\\WWorldMidTest\\WWorldMidTest\\obj\\",
+      "projectPath": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\WWorldMidTest.csproj",
+      "packagesPath": "C:\\Users\\LY DAT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LY DAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4184,7 +4184,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
