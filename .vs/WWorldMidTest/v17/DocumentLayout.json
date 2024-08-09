@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F1015E9A-536C-4C72-A5FD-3CC0DA672353}|WWorldMidTest\\WWorldMidTest.csproj|c:\\users\\ly dat\\desktop\\mvc21bitv03test\\wworldmidtest\\repository\\irepository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1015E9A-536C-4C72-A5FD-3CC0DA672353}|WWorldMidTest\\WWorldMidTest.csproj|solutionrelative:wworldmidtest\\repository\\irepository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1015E9A-536C-4C72-A5FD-3CC0DA672353}|WWorldMidTest\\WWorldMidTest.csproj|c:\\users\\ly dat\\desktop\\mvc21bitv03test\\wworldmidtest\\viewmodel\\partviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1015E9A-536C-4C72-A5FD-3CC0DA672353}|WWorldMidTest\\WWorldMidTest.csproj|solutionrelative:wworldmidtest\\viewmodel\\partviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1015E9A-536C-4C72-A5FD-3CC0DA672353}|WWorldMidTest\\WWorldMidTest.csproj|c:\\users\\ly dat\\desktop\\mvc21bitv03test\\wworldmidtest\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1015E9A-536C-4C72-A5FD-3CC0DA672353}|WWorldMidTest\\WWorldMidTest.csproj|solutionrelative:wworldmidtest\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,8 +70,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Repository\\IRepository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "WWorldMidTest\\Repository\\IRepository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Repository\\IRepository\\ICustomerRepository.cs",
+              "RelativeToolTip": "WWorldMidTest\\Repository\\IRepository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:45:28.198Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -82,7 +103,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "PartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\ViewModel\\PartViewModel.cs",
+              "RelativeDocumentMoniker": "WWorldMidTest\\ViewModel\\PartViewModel.cs",
+              "ToolTip": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\ViewModel\\PartViewModel.cs",
+              "RelativeToolTip": "WWorldMidTest\\ViewModel\\PartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:43:27.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Views\\Parts\\Create.cshtml",
               "RelativeDocumentMoniker": "WWorldMidTest\\Views\\Parts\\Create.cshtml",
@@ -90,12 +124,11 @@
               "RelativeToolTip": "WWorldMidTest\\Views\\Parts\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T08:19:12.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T08:19:12.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Views\\Parts\\Details.cshtml",
               "RelativeDocumentMoniker": "WWorldMidTest\\Views\\Parts\\Details.cshtml",
@@ -103,25 +136,24 @@
               "RelativeToolTip": "WWorldMidTest\\Views\\Parts\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T08:18:28.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T08:18:28.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PartsController.cs",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Controllers\\PartsController.cs",
               "RelativeDocumentMoniker": "WWorldMidTest\\Controllers\\PartsController.cs",
               "ToolTip": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Controllers\\PartsController.cs",
               "RelativeToolTip": "WWorldMidTest\\Controllers\\PartsController.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAgwFoAAAASAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwGUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T08:15:33.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Part.cs",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Data\\Part.cs",
               "RelativeDocumentMoniker": "WWorldMidTest\\Data\\Part.cs",
@@ -129,12 +161,11 @@
               "RelativeToolTip": "WWorldMidTest\\Data\\Part.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAA+wA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T08:02:56.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T08:02:56.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WWorldMidTest\\Views\\Home\\Index.cshtml",
@@ -142,12 +173,11 @@
               "RelativeToolTip": "WWorldMidTest\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T07:50:34.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T07:50:34.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Data\\Supplier.cs",
               "RelativeDocumentMoniker": "WWorldMidTest\\Data\\Supplier.cs",
@@ -155,12 +185,11 @@
               "RelativeToolTip": "WWorldMidTest\\Data\\Supplier.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T07:48:40.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T07:48:40.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CarDealerContext.cs",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Data\\CarDealerContext.cs",
               "RelativeDocumentMoniker": "WWorldMidTest\\Data\\CarDealerContext.cs",
@@ -168,12 +197,11 @@
               "RelativeToolTip": "WWorldMidTest\\Data\\CarDealerContext.cs",
               "ViewState": "AQIAAEUAAAAAAAAAAAAuwCUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T07:37:02.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T07:37:02.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\appsettings.json",
               "RelativeDocumentMoniker": "WWorldMidTest\\appsettings.json",
@@ -181,12 +209,11 @@
               "RelativeToolTip": "WWorldMidTest\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-09T07:31:16.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T07:31:16.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WWorldMidTest\\Controllers\\HomeController.cs",
@@ -194,12 +221,11 @@
               "RelativeToolTip": "WWorldMidTest\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T06:51:01.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T06:51:01.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Views\\Customer\\Create.cshtml",
               "RelativeDocumentMoniker": "WWorldMidTest\\Views\\Customer\\Create.cshtml",
@@ -207,12 +233,11 @@
               "RelativeToolTip": "WWorldMidTest\\Views\\Customer\\Create.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAowCMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T06:44:56.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T06:44:56.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Program.cs",
               "RelativeDocumentMoniker": "WWorldMidTest\\Program.cs",
@@ -220,12 +245,11 @@
               "RelativeToolTip": "WWorldMidTest\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T06:31:42.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T06:31:42.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WWorldMidTest\\Views\\_ViewImports.cshtml",
@@ -233,12 +257,11 @@
               "RelativeToolTip": "WWorldMidTest\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T06:45:05.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T06:45:05.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\LY DAT\\Desktop\\MVC21BITV03Test\\WWorldMidTest\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "WWorldMidTest\\Repository\\IRepository\\IRepository.cs",
@@ -246,8 +269,7 @@
               "RelativeToolTip": "WWorldMidTest\\Repository\\IRepository\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T06:38:26.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T06:38:26.138Z"
             }
           ]
         }
